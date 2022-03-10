@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\bin\Debug\netcoreapp3.1\ClassInheritance.exe
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\bin\Debug\netcoreapp3.1\ClassInheritance.deps.json
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\bin\Debug\netcoreapp3.1\ClassInheritance.runtimeconfig.json
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\bin\Debug\netcoreapp3.1\ClassInheritance.runtimeconfig.dev.json
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\bin\Debug\netcoreapp3.1\ClassInheritance.dll
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\bin\Debug\netcoreapp3.1\ClassInheritance.pdb
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\obj\Debug\netcoreapp3.1\ClassInheritance.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\obj\Debug\netcoreapp3.1\ClassInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\obj\Debug\netcoreapp3.1\ClassInheritance.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\obj\Debug\netcoreapp3.1\ClassInheritance.AssemblyInfo.cs
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\obj\Debug\netcoreapp3.1\ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\obj\Debug\netcoreapp3.1\ClassInheritance.dll
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\obj\Debug\netcoreapp3.1\ClassInheritance.pdb
+C:\Users\HP\Desktop\ClassInheritance\ClassInheritance\obj\Debug\netcoreapp3.1\ClassInheritance.genruntimeconfig.cache
